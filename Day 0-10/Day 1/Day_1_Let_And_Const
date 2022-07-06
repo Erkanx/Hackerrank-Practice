@@ -1,0 +1,18 @@
+// Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
+
+// SOLUTION:
+const PI = Math.PI;
+let r = readLine()
+    
+// Print the area of the circle:
+
+// SOLUTION:
+let area = PI * r * r;
+console.log(area)
+    
+// Print the perimeter of the circle:
+
+// SOLUTION:
+let perimeter = 2 * PI * r;
+console.log(perimeter);
+    
